@@ -1,0 +1,9 @@
+1. create ProductClientTest method
+
+2. create ProductClient method
+
+3. create method in interface IProductWebService for ProductResource and ProductService 
+
+4. create ProductResource method
+
+5. create ProductService method
